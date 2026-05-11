@@ -1,4 +1,4 @@
-
+Enhance iStat Menus for macOS with iStat Menus for macOS instant Addon: privacy-protection & cloud-sync, the #1 addon. Includes privacy-protection and cloud-sync for a smoother
 
 
 
